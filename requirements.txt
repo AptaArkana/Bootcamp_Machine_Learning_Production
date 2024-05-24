@@ -1,0 +1,11 @@
+nltk
+scikit-learn==1.5.0
+regex
+Sastrawi
+emoji
+wordcloud
+pandas
+numpy
+matplotlib
+imbalanced-learn
+pickle
